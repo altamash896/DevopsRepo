@@ -1,1 +1,2 @@
 This is file B.
+This is another lines we are adding to file.
